@@ -1,16 +1,8 @@
-### Hi there 👋
-
-<!--
-**ResistantVPN/ResistantVPN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# ResistantVPN
+## معرفی
+رِسیستَنت به معنای مقاومت یا مقاوم است و استفاده از این کلمه جهت
+بروز مقاومت سرور های ماست. ما تولید و توضیع کننده کانفیگ های  شکننده
+فیلتر های ایرانی هستیم، فعالیت ما از اواخر سال ۱۴۰۱ شروع می شود و تا وجود فیلتر های
+ایران وجود خواهد داشت. جهت حمایت از ما صفحه گیتهاب ما را با دوستان و 
+خانواده خود به اشتراک بگذارید.
+--dArK--
