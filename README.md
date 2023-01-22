@@ -24,6 +24,6 @@
 <p align="center">
 <a href="https://twitter.com/arad_mw" target="blank"><img align="center" src="https://s27.picofile.com/file/8458830668/20230122_132549.jpg" alt="smr_seddighy"/></a>
 <a href="https://instagram.com/ariaieboy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="ariaieboy" /></a>
-<a href="https://t.me/arad_mw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/123089787/213910860-abb2e764-0d31-43a3-8053-3f6354195fd5.svg" alt="ariaieboy" /></a>
+<a href="https://t.me/arad_mw" target="blank"><img align="center" src="https://user-images.githubusercontent.com/123089787/213911351-73494bc3-d15c-4850-8ab9-cd37355d23e0.svg" alt="ariaieboy" /></a>
 <a href="https://wa.me/989158585889?text=hi,%20i%20am%20contacting%20from%20github" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=222222&logo=WhatsApp&logoColor=25D366&label=" alt="+989158585889" /></a>
 </p>
