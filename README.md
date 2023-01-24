@@ -20,7 +20,8 @@
 هم مفید هستند و پینگ خوبی را برای گیمر فراهم می‌کنند،
 علاوه بر آن در باز شدن اینستاگرام، تلگرام، واتسپ هم سرعت به خصوص خوبی دارند.
 <h2 align="center"> راه های ارتباطی <h2>
+
 <p align="center">
-<a href="https://t.me/arad_mw target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="IRKResistanTVPN /></a>
-<a href="https://instagram.com/arad_mowlaei" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="ResistanTVPN" /></a>
+<a href="https://t.me/ariaieboy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="ariaieboy" /></a>
+<a href="https://instagram.com/ariaieboy" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="ariaieboy" /></a>
 </p>
