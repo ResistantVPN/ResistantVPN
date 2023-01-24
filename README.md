@@ -22,6 +22,6 @@
 <h2 align="center"> راه های ارتباطی <h2>
 <p align="center">
 <a href="https://t.me/arad_mw" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=" alt="ResistanTVPN /></a>
-
+ .
 <a href="https://instagram.com/resistantvpn" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" alt="ResistanTVPN" /></a>
 </p>
